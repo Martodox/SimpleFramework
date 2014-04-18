@@ -1,0 +1,21 @@
+.center_box { 
+
+    height: auto;
+    margin:100px auto 0px auto;
+    float: none !important;
+
+}
+
+.center_box h3 {
+    padding: 0 0 0 10px;
+}
+
+.center_box input[type=text], .center_box fieldset input[type=password] {
+    width: 89% !important;
+    margin-bottom: 5px;
+}
+
+.back_to_web {
+    line-height: 21px;
+    margin: 4px 0px 5px 3%;
+}
